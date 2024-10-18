@@ -41,5 +41,3 @@ Si tienes preguntas, sugerencias o deseas algún proyecto, no dudes en ponerte e
 - **Visita Nuestra Página Web**: [A&A Software Solutions](https://rodsantech.com/portafolio/) 🌐
 
 ---
-
-¡Gracias por visitar nuestra organización! 🌟 Esperamos que encuentres nuestros proyectos interesantes y útiles. ¡Feliz codificación! 🎊
