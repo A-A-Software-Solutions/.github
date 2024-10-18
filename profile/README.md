@@ -30,12 +30,16 @@
 
 ## 🌟 Proyectos Destacados
 
-- **[SC-CAD Frontend]**: Descripción breve del proyecto. 💻
-- **[SC-CAD Backend]**: Descripción breve del proyecto. 💻
+- **[SC-CAD Frontend]**: Este proyecto está basado en Angular 18 y se encarga de gestionar trabajos, clientes, empleados, pagos y seguimiento de proyectos. 💻
+- **[SC-CAD Backend]**: Desarrollado en Nest.js, proporciona la lógica de negocio y el manejo de datos necesarios para la gestión eficiente de todos los aspectos mencionados anteriormente. 💻
 
 ## 📫 Contacto
 
 Si tienes preguntas, sugerencias o deseas algún proyecto, no dudes en ponerte en contacto con nosotros a través de:
 
 - **A&A Software Solutions**: aasoftwaresolutions00@gmail.com 📧
-- **Visita Nuestra Pagina Web**: [A&A Software Solutions](https://rodsantech.com/portafolio/)
+- **Visita Nuestra Página Web**: [A&A Software Solutions](https://rodsantech.com/portafolio/) 🌐
+
+---
+
+¡Gracias por visitar nuestra organización! 🌟 Esperamos que encuentres nuestros proyectos interesantes y útiles. ¡Feliz codificación! 🎊
